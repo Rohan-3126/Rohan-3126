@@ -1,16 +1,15 @@
-## Hi there 👋
+# Julius Rohan Reemus
 
-<!--
-**Rohan-3126/Rohan-3126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student interested in systems programming and computer networking.
 
-Here are some ideas to get you started:
+Currently studying Unix systems programming and modern C++, documenting networking labs for CCNA, and preparing to contribute to [SONiC](https://github.com/sonic-net/SONiC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositories
+
+- [apue-study](https://github.com/Rohan-3126/apue-study) — Notes and exercises from *Advanced Programming in the UNIX Environment*.
+- [professional-cpp-study](https://github.com/Rohan-3126/professional-cpp-study) — Notes and exercises from *Professional C++*.
+- [CCNA-Study](https://github.com/Rohan-3126/CCNA-Study) — Networking labs, configurations, and troubleshooting notes.
+
+## Interests
+
+C · C++ · Linux · TCP/IP · Network Engineering · SONiC

@@ -12,7 +12,7 @@ Currently working through Unix systems programming, modern C++, and CCNA labs, w
 **[professional-cpp-study](https://github.com/Rohan-3126/professional-cpp-study)** - Notes, examples, and exercises from *Professional C++* by Marc Gregoire.
 
 ### 03 / Networking
-**[CCNA-Study](https://github.com/Rohan-3126/CCNA-Study)** - Cisco IOS configurations, networking labs, and troubleshooting notes.
+**[CCNA-Labs](https://github.com/Rohan-3126/CCNA-Labs)** - Cisco IOS configurations, networking labs, and troubleshooting notes.
 
 ## Interests
 C · C++ · Linux · TCP/IP · SONiC

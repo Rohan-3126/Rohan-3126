@@ -11,7 +11,7 @@ Notes and exercises from *Advanced Programming in the UNIX Environment*.
 
 ### 02 / C++
 **[professional-cpp-study](https://github.com/Rohan-3126/professional-cpp-study)**
-Notes, examples, and exercises from *Professional C++*.
+Notes, examples, and exercises from *Professional C++* by Marc Gregoire.
 
 ### 03 / Networking
 **[CCNA-Study](https://github.com/Rohan-3126/CCNA-Study)**
